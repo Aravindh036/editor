@@ -1,0 +1,3192 @@
+[
+  {
+    "tag": "artboard",
+    "id": "dc720492-882f-4c49-b3b3-8d93a21ddccd",
+    "name": "Artboard – 1",
+    "frame": { "height": 768, "width": 1366, "x": 4389, "y": -6370 },
+    "layers": [
+      {
+        "tag": "rectangle",
+        "id": "6ee96178-4c23-440d-abbe-1f42cc70b45c",
+        "name": "Rectangle_393",
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "visible": true,
+        "frame": {
+          "x": 0,
+          "y": 0,
+          "height": 768,
+          "width": 1366,
+          "rotation": 0
+        },
+        "style": {
+          "backgroundColor": [
+            {
+              "type": "solid",
+              "value": {
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 1,
+                "visible": true
+              }
+            }
+          ],
+          "border": [
+            {
+              "thickness": 1,
+              "align": "INSIDE",
+              "color": {
+                "type": "gradient",
+                "value": {
+                  "type": "linear",
+                  "startX": 0,
+                  "startY": 0,
+                  "stopX": 0,
+                  "stopY": 0,
+                  "colors": [
+                    {
+                      "offset": 0,
+                      "color": {
+                        "red": 0,
+                        "blue": 0,
+                        "green": 0,
+                        "alpha": 0,
+                        "visible": true
+                      }
+                    }
+                  ],
+                  "visible": false
+                }
+              }
+            }
+          ],
+          "opacity": 0.5400000214576721
+        },
+        "cornerRadius": [0, 0, 0, 0]
+      },
+      {
+        "tag": "group",
+        "id": "8a39b667-aa0c-459e-aa76-5ded507e1198",
+        "name": "Group_47",
+        "frame": {
+          "x": 478,
+          "y": 123,
+          "height": 460.298095703125,
+          "width": 410,
+          "rotation": 0
+        },
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "layers": [
+          {
+            "tag": "rectangle",
+            "id": "c82613ac-e8e2-4f80-8659-c0d4c2650a62",
+            "name": "Rectangle_396",
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "visible": true,
+            "frame": {
+              "x": 0,
+              "y": 0,
+              "height": 460.298095703125,
+              "width": 410,
+              "rotation": 0
+            },
+            "style": {
+              "backgroundColor": [
+                {
+                  "type": "solid",
+                  "value": {
+                    "red": 255,
+                    "green": 255,
+                    "blue": 255,
+                    "alpha": 1,
+                    "visible": true
+                  }
+                }
+              ],
+              "border": [
+                {
+                  "thickness": 1,
+                  "align": "INSIDE",
+                  "color": {
+                    "type": "gradient",
+                    "value": {
+                      "type": "linear",
+                      "startX": 0,
+                      "startY": 0,
+                      "stopX": 0,
+                      "stopY": 0,
+                      "colors": [
+                        {
+                          "offset": 0,
+                          "color": {
+                            "red": 0,
+                            "blue": 0,
+                            "green": 0,
+                            "alpha": 0,
+                            "visible": true
+                          }
+                        }
+                      ],
+                      "visible": false
+                    }
+                  }
+                }
+              ],
+              "opacity": 1,
+              "shadow": [
+                {
+                  "color": {
+                    "type": "solid",
+                    "value": {
+                      "red": 0,
+                      "green": 0,
+                      "blue": 0,
+                      "visible": true
+                    }
+                  },
+                  "opacity": 0.1607843137254902,
+                  "x": 0,
+                  "y": 3,
+                  "s": 6,
+                  "blur": 0,
+                  "visible": true
+                }
+              ]
+            },
+            "cornerRadius": [10, 10, 10, 10]
+          },
+          {
+            "tag": "group",
+            "id": "6bdc07e1-0a2c-484a-83ec-329af3d869df",
+            "name": "Group_46",
+            "frame": {
+              "x": 54,
+              "y": 23,
+              "height": 399,
+              "width": 302.5,
+              "rotation": 0
+            },
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "layers": [
+              {
+                "tag": "group",
+                "id": "7d1f5a2d-727a-44cc-9d92-bf2a1d28abd9",
+                "name": "Input_Box",
+                "frame": {
+                  "x": 0,
+                  "y": 159,
+                  "height": 55.69999999999999,
+                  "width": 302,
+                  "rotation": 0
+                },
+                "isFlippedHorizontal": false,
+                "isFlippedVertical": false,
+                "layers": [
+                  {
+                    "tag": "rectangle",
+                    "id": "2fc6ece0-4584-494b-9009-a671192ff625",
+                    "name": "Rectangle_404",
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "visible": true,
+                    "frame": {
+                      "x": 0,
+                      "y": 0,
+                      "height": 40,
+                      "width": 302,
+                      "rotation": 0
+                    },
+                    "style": {
+                      "backgroundColor": [
+                        {
+                          "type": "solid",
+                          "value": {
+                            "red": 255,
+                            "green": 255,
+                            "blue": 255,
+                            "alpha": 1,
+                            "visible": true
+                          }
+                        }
+                      ],
+                      "border": [
+                        {
+                          "thickness": 1,
+                          "align": "INSIDE",
+                          "color": {
+                            "type": "solid",
+                            "value": {
+                              "red": 207,
+                              "green": 207,
+                              "blue": 207,
+                              "alpha": 1,
+                              "visible": true
+                            }
+                          }
+                        }
+                      ],
+                      "opacity": 1,
+                      "shadow": [
+                        {
+                          "color": {
+                            "type": "solid",
+                            "value": {
+                              "red": 0,
+                              "green": 0,
+                              "blue": 0,
+                              "visible": true
+                            }
+                          },
+                          "opacity": 0.1607843137254902,
+                          "x": 0,
+                          "y": 3,
+                          "s": 6,
+                          "blur": 0,
+                          "visible": false
+                        }
+                      ]
+                    },
+                    "cornerRadius": [3, 3, 3, 3]
+                  },
+                  {
+                    "tag": "text",
+                    "id": "5bd529fc-28c9-4b1b-9579-479583530bf9",
+                    "name": "Email_Id",
+                    "string": "Email Id",
+                    "visible": true,
+                    "frame": {
+                      "x": 10,
+                      "y": 13.199999999999989,
+                      "height": 16,
+                      "width": 112,
+                      "rotation": 0
+                    },
+                    "style": {
+                      "backgroundColor": [
+                        {
+                          "type": "solid",
+                          "value": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "alpha": 1,
+                            "visible": true
+                          }
+                        }
+                      ],
+                      "border": [],
+                      "opacity": 0.6000000238418579,
+                      "font": {
+                        "fontFamily": "Poppins",
+                        "fontSize": 12,
+                        "fontStyle": "Medium"
+                      },
+                      "color": {
+                        "type": "solid",
+                        "value": {
+                          "red": 0,
+                          "green": 0,
+                          "blue": 0,
+                          "alpha": 1,
+                          "visible": true
+                        }
+                      },
+                      "format": [{ "from": 0, "to": 8 }]
+                    }
+                  },
+                  {
+                    "tag": "line",
+                    "id": "9c9b327d-2015-49b2-8c7a-619ae8811659",
+                    "name": "Line_1",
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "visible": true,
+                    "frame": {
+                      "x": 11.5,
+                      "y": 11.5,
+                      "x1": 0,
+                      "y1": 0,
+                      "x2": 0,
+                      "y2": 18,
+                      "width": 0,
+                      "height": 18,
+                      "rotation": 0
+                    },
+                    "style": {
+                      "backgroundColor": [],
+                      "border": [
+                        {
+                          "thickness": 1,
+                          "align": "OUTSIDE",
+                          "color": {
+                            "type": "solid",
+                            "value": {
+                              "red": 51,
+                              "green": 51,
+                              "blue": 51,
+                              "alpha": 1,
+                              "visible": true
+                            }
+                          }
+                        }
+                      ],
+                      "opacity": 0
+                    }
+                  },
+                  {
+                    "tag": "clipPath",
+                    "id": "4a2c63ca-cce2-436f-9be8-4b1088f92d7c",
+                    "name": "Tick",
+                    "frame": {
+                      "x": 277,
+                      "y": 10,
+                      "height": 20,
+                      "width": 20,
+                      "rotation": 0
+                    },
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "layers": [
+                      {
+                        "tag": "rectangle",
+                        "id": "c8a95bfc-c807-4871-9da5-ce2fbf41dd26",
+                        "name": "Rectangle_413",
+                        "isFlippedHorizontal": false,
+                        "isFlippedVertical": false,
+                        "visible": true,
+                        "frame": {
+                          "x": 0,
+                          "y": 0,
+                          "height": 20,
+                          "width": 20,
+                          "rotation": 0
+                        },
+                        "style": {
+                          "backgroundColor": [
+                            {
+                              "type": "solid",
+                              "value": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 1,
+                                "visible": true
+                              }
+                            }
+                          ],
+                          "border": [
+                            {
+                              "thickness": 1,
+                              "align": "INSIDE",
+                              "color": {
+                                "type": "solid",
+                                "value": {
+                                  "red": 112,
+                                  "green": 112,
+                                  "blue": 112,
+                                  "alpha": 1,
+                                  "visible": true
+                                }
+                              }
+                            }
+                          ],
+                          "opacity": 1
+                        },
+                        "cornerRadius": [0, 0, 0, 0]
+                      },
+                      {
+                        "tag": "path",
+                        "id": "9ee5efff-c739-44fe-92d6-3179ce178cce",
+                        "name": "Path_42",
+                        "isFlippedHorizontal": false,
+                        "isFlippedVertical": false,
+                        "visible": true,
+                        "frame": {
+                          "x": 6,
+                          "y": 5.94921875,
+                          "height": 6.721435546875,
+                          "width": 8.55322265625,
+                          "rotation": 0
+                        },
+                        "style": {
+                          "backgroundColor": [
+                            {
+                              "type": "gradient",
+                              "value": {
+                                "type": "linear",
+                                "startX": 0,
+                                "startY": 0,
+                                "stopX": 0,
+                                "stopY": 0,
+                                "colors": [
+                                  {
+                                    "offset": 0,
+                                    "color": {
+                                      "red": 0,
+                                      "blue": 0,
+                                      "green": 0,
+                                      "alpha": 0,
+                                      "visible": true
+                                    }
+                                  }
+                                ],
+                                "visible": false
+                              }
+                            }
+                          ],
+                          "border": [
+                            {
+                              "thickness": 1.5,
+                              "align": "OUTSIDE",
+                              "color": {
+                                "type": "solid",
+                                "value": {
+                                  "red": 38,
+                                  "green": 170,
+                                  "blue": 125,
+                                  "alpha": 1,
+                                  "visible": true
+                                }
+                              }
+                            }
+                          ],
+                          "opacity": 1
+                        },
+                        "path": [
+                          { "type": "M", "points": [[0, 3.6508812499999976]] },
+                          { "type": "l", "points": [[2.7124, 3.07056]] },
+                          { "type": "l", "points": [[5.84082, -6.72144]] }
+                        ]
+                      }
+                    ],
+                    "length": 1,
+                    "style": { "opacity": 1 },
+                    "visible": true
+                  },
+                  {
+                    "tag": "clipPath",
+                    "id": "85b282b5-431b-42bf-a793-6670633a5863",
+                    "name": "Exclamation",
+                    "frame": {
+                      "x": 277,
+                      "y": 10,
+                      "height": 20,
+                      "width": 20,
+                      "rotation": 0
+                    },
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "layers": [
+                      {
+                        "tag": "rectangle",
+                        "id": "1413f365-9dd9-4837-8f4e-1a7c43625b16",
+                        "name": "Rectangle_417",
+                        "isFlippedHorizontal": false,
+                        "isFlippedVertical": false,
+                        "visible": true,
+                        "frame": {
+                          "x": 0,
+                          "y": 0,
+                          "height": 20,
+                          "width": 20,
+                          "rotation": 0
+                        },
+                        "style": {
+                          "backgroundColor": [
+                            {
+                              "type": "solid",
+                              "value": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 1,
+                                "visible": true
+                              }
+                            }
+                          ],
+                          "border": [
+                            {
+                              "thickness": 1,
+                              "align": "INSIDE",
+                              "color": {
+                                "type": "solid",
+                                "value": {
+                                  "red": 112,
+                                  "green": 112,
+                                  "blue": 112,
+                                  "alpha": 1,
+                                  "visible": true
+                                }
+                              }
+                            }
+                          ],
+                          "opacity": 1
+                        },
+                        "cornerRadius": [0, 0, 0, 0]
+                      },
+                      {
+                        "tag": "group",
+                        "id": "2c99a7a7-a4c5-4c13-95f9-2d6d3d153717",
+                        "name": "Group_63",
+                        "frame": {
+                          "x": 8.800253164023161,
+                          "y": 1.880859375,
+                          "height": 14.61907958984375,
+                          "width": 2.5,
+                          "rotation": 0
+                        },
+                        "isFlippedHorizontal": false,
+                        "isFlippedVertical": false,
+                        "layers": [
+                          {
+                            "tag": "circle",
+                            "id": "00292ec1-290e-4a60-a4ac-985759f1e75d",
+                            "name": "Ellipse_14",
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "frame": {
+                              "x": 0,
+                              "y": 12.11907958984375,
+                              "rotation": 0,
+                              "width": 2.5,
+                              "height": 2.5
+                            },
+                            "radius": 1.25,
+                            "style": {
+                              "backgroundColor": [
+                                {
+                                  "type": "solid",
+                                  "value": {
+                                    "red": 255,
+                                    "green": 3,
+                                    "blue": 18,
+                                    "alpha": 1,
+                                    "visible": true
+                                  }
+                                }
+                              ],
+                              "border": [
+                                {
+                                  "thickness": 1,
+                                  "align": "INSIDE",
+                                  "color": {
+                                    "type": "gradient",
+                                    "value": {
+                                      "type": "linear",
+                                      "startX": 0,
+                                      "startY": 0,
+                                      "stopX": 0,
+                                      "stopY": 0,
+                                      "colors": [
+                                        {
+                                          "offset": 0,
+                                          "color": {
+                                            "red": 0,
+                                            "blue": 0,
+                                            "green": 0,
+                                            "alpha": 0,
+                                            "visible": true
+                                          }
+                                        }
+                                      ],
+                                      "visible": false
+                                    }
+                                  }
+                                }
+                              ],
+                              "opacity": 1
+                            },
+                            "visible": true
+                          },
+                          {
+                            "tag": "rectangle",
+                            "id": "96dc955f-ec1e-42bc-8db9-2fec35c29189",
+                            "name": "Rectangle_416",
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "visible": true,
+                            "frame": {
+                              "x": 0.29290771484375,
+                              "y": 0,
+                              "height": 10.75169849395752,
+                              "width": 2,
+                              "rotation": 0
+                            },
+                            "style": {
+                              "backgroundColor": [
+                                {
+                                  "type": "solid",
+                                  "value": {
+                                    "red": 255,
+                                    "green": 2,
+                                    "blue": 18,
+                                    "alpha": 1,
+                                    "visible": true
+                                  }
+                                }
+                              ],
+                              "border": [
+                                {
+                                  "thickness": 1,
+                                  "align": "INSIDE",
+                                  "color": {
+                                    "type": "gradient",
+                                    "value": {
+                                      "type": "linear",
+                                      "startX": 0,
+                                      "startY": 0,
+                                      "stopX": 0,
+                                      "stopY": 0,
+                                      "colors": [
+                                        {
+                                          "offset": 0,
+                                          "color": {
+                                            "red": 0,
+                                            "blue": 0,
+                                            "green": 0,
+                                            "alpha": 0,
+                                            "visible": true
+                                          }
+                                        }
+                                      ],
+                                      "visible": false
+                                    }
+                                  }
+                                }
+                              ],
+                              "opacity": 1
+                            },
+                            "cornerRadius": [
+                              0.20000000298023224,
+                              0.20000000298023224,
+                              0.20000000298023224,
+                              0.20000000298023224
+                            ]
+                          }
+                        ],
+                        "length": 2,
+                        "style": { "opacity": 1 },
+                        "visible": true
+                      }
+                    ],
+                    "length": 1,
+                    "style": { "opacity": 1 },
+                    "visible": true
+                  },
+                  {
+                    "tag": "text",
+                    "id": "d3e989f1-9ef2-418c-a2ca-977c48eb1f95",
+                    "name": "Please_enter_correct...",
+                    "string": "Please enter correct Password",
+                    "visible": true,
+                    "frame": { "x": 1, "y": 44.900000000000006, "rotation": 0 },
+                    "style": {
+                      "backgroundColor": [
+                        {
+                          "type": "solid",
+                          "value": {
+                            "red": 255,
+                            "green": 2,
+                            "blue": 18,
+                            "alpha": 1,
+                            "visible": true
+                          }
+                        }
+                      ],
+                      "border": [],
+                      "opacity": 0,
+                      "font": {
+                        "fontFamily": "Poppins",
+                        "fontSize": 9,
+                        "fontStyle": "Medium"
+                      },
+                      "color": {
+                        "type": "solid",
+                        "value": {
+                          "red": 255,
+                          "green": 2,
+                          "blue": 18,
+                          "alpha": 1,
+                          "visible": true
+                        }
+                      },
+                      "format": [{ "from": 0, "to": 29 }]
+                    }
+                  }
+                ],
+                "length": 6,
+                "style": { "opacity": 1 },
+                "visible": true
+              },
+              {
+                "tag": "group",
+                "id": "f5508298-faac-42eb-84e0-669fe251ec52",
+                "name": "Input_Box",
+                "frame": {
+                  "x": 0,
+                  "y": 219,
+                  "height": 55.69999999999999,
+                  "width": 302,
+                  "rotation": 0
+                },
+                "isFlippedHorizontal": false,
+                "isFlippedVertical": false,
+                "layers": [
+                  {
+                    "tag": "rectangle",
+                    "id": "84e943bc-4cca-430c-8e58-04c41158d2ea",
+                    "name": "Rectangle_404",
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "visible": true,
+                    "frame": {
+                      "x": 0,
+                      "y": 0,
+                      "height": 40,
+                      "width": 302,
+                      "rotation": 0
+                    },
+                    "style": {
+                      "backgroundColor": [
+                        {
+                          "type": "solid",
+                          "value": {
+                            "red": 255,
+                            "green": 255,
+                            "blue": 255,
+                            "alpha": 1,
+                            "visible": true
+                          }
+                        }
+                      ],
+                      "border": [
+                        {
+                          "thickness": 1,
+                          "align": "INSIDE",
+                          "color": {
+                            "type": "solid",
+                            "value": {
+                              "red": 207,
+                              "green": 207,
+                              "blue": 207,
+                              "alpha": 1,
+                              "visible": true
+                            }
+                          }
+                        }
+                      ],
+                      "opacity": 1,
+                      "shadow": [
+                        {
+                          "color": {
+                            "type": "solid",
+                            "value": {
+                              "red": 0,
+                              "green": 0,
+                              "blue": 0,
+                              "visible": true
+                            }
+                          },
+                          "opacity": 0.1607843137254902,
+                          "x": 0,
+                          "y": 3,
+                          "s": 6,
+                          "blur": 0,
+                          "visible": false
+                        }
+                      ]
+                    },
+                    "cornerRadius": [3, 3, 3, 3]
+                  },
+                  {
+                    "tag": "text",
+                    "id": "bf8578b2-6a56-4cfc-8ac5-9b66e7f4cf72",
+                    "name": "Password",
+                    "string": "Password",
+                    "visible": true,
+                    "frame": {
+                      "x": 10,
+                      "y": 13.199999999999989,
+                      "height": 16,
+                      "width": 112,
+                      "rotation": 0
+                    },
+                    "style": {
+                      "backgroundColor": [
+                        {
+                          "type": "solid",
+                          "value": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "alpha": 1,
+                            "visible": true
+                          }
+                        }
+                      ],
+                      "border": [],
+                      "opacity": 0.6000000238418579,
+                      "font": {
+                        "fontFamily": "Poppins",
+                        "fontSize": 12,
+                        "fontStyle": "Medium"
+                      },
+                      "color": {
+                        "type": "solid",
+                        "value": {
+                          "red": 0,
+                          "green": 0,
+                          "blue": 0,
+                          "alpha": 1,
+                          "visible": true
+                        }
+                      },
+                      "format": [{ "from": 0, "to": 8 }]
+                    }
+                  },
+                  {
+                    "tag": "line",
+                    "id": "218ae918-56bd-49a1-8bc8-52d86e4382fd",
+                    "name": "Line_1",
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "visible": true,
+                    "frame": {
+                      "x": 11.5,
+                      "y": 11.5,
+                      "x1": 0,
+                      "y1": 0,
+                      "x2": 0,
+                      "y2": 18,
+                      "width": 0,
+                      "height": 18,
+                      "rotation": 0
+                    },
+                    "style": {
+                      "backgroundColor": [],
+                      "border": [
+                        {
+                          "thickness": 1,
+                          "align": "OUTSIDE",
+                          "color": {
+                            "type": "solid",
+                            "value": {
+                              "red": 51,
+                              "green": 51,
+                              "blue": 51,
+                              "alpha": 1,
+                              "visible": true
+                            }
+                          }
+                        }
+                      ],
+                      "opacity": 0
+                    }
+                  },
+                  {
+                    "tag": "clipPath",
+                    "id": "53e3a294-66e4-41b4-8fd5-10b5fe5e6b44",
+                    "name": "Tick",
+                    "frame": {
+                      "x": 277,
+                      "y": 10,
+                      "height": 20,
+                      "width": 20,
+                      "rotation": 0
+                    },
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "layers": [
+                      {
+                        "tag": "rectangle",
+                        "id": "40205191-c725-431a-9bb5-6e982c66081a",
+                        "name": "Rectangle_413",
+                        "isFlippedHorizontal": false,
+                        "isFlippedVertical": false,
+                        "visible": true,
+                        "frame": {
+                          "x": 0,
+                          "y": 0,
+                          "height": 20,
+                          "width": 20,
+                          "rotation": 0
+                        },
+                        "style": {
+                          "backgroundColor": [
+                            {
+                              "type": "solid",
+                              "value": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 1,
+                                "visible": true
+                              }
+                            }
+                          ],
+                          "border": [
+                            {
+                              "thickness": 1,
+                              "align": "INSIDE",
+                              "color": {
+                                "type": "solid",
+                                "value": {
+                                  "red": 112,
+                                  "green": 112,
+                                  "blue": 112,
+                                  "alpha": 1,
+                                  "visible": true
+                                }
+                              }
+                            }
+                          ],
+                          "opacity": 1
+                        },
+                        "cornerRadius": [0, 0, 0, 0]
+                      },
+                      {
+                        "tag": "path",
+                        "id": "48c1d9bb-e8d2-40ec-be5b-eb9477830821",
+                        "name": "Path_42",
+                        "isFlippedHorizontal": false,
+                        "isFlippedVertical": false,
+                        "visible": true,
+                        "frame": {
+                          "x": 6,
+                          "y": 5.94921875,
+                          "height": 6.721435546875,
+                          "width": 8.55322265625,
+                          "rotation": 0
+                        },
+                        "style": {
+                          "backgroundColor": [
+                            {
+                              "type": "gradient",
+                              "value": {
+                                "type": "linear",
+                                "startX": 0,
+                                "startY": 0,
+                                "stopX": 0,
+                                "stopY": 0,
+                                "colors": [
+                                  {
+                                    "offset": 0,
+                                    "color": {
+                                      "red": 0,
+                                      "blue": 0,
+                                      "green": 0,
+                                      "alpha": 0,
+                                      "visible": true
+                                    }
+                                  }
+                                ],
+                                "visible": false
+                              }
+                            }
+                          ],
+                          "border": [
+                            {
+                              "thickness": 1.5,
+                              "align": "OUTSIDE",
+                              "color": {
+                                "type": "solid",
+                                "value": {
+                                  "red": 38,
+                                  "green": 170,
+                                  "blue": 125,
+                                  "alpha": 1,
+                                  "visible": true
+                                }
+                              }
+                            }
+                          ],
+                          "opacity": 1
+                        },
+                        "path": [
+                          { "type": "M", "points": [[0, 3.6508812499999976]] },
+                          { "type": "l", "points": [[2.7124, 3.07056]] },
+                          { "type": "l", "points": [[5.84082, -6.72144]] }
+                        ]
+                      }
+                    ],
+                    "length": 1,
+                    "style": { "opacity": 1 },
+                    "visible": true
+                  },
+                  {
+                    "tag": "clipPath",
+                    "id": "a186c562-84d5-490a-91f0-cacb96b22e85",
+                    "name": "Exclamation",
+                    "frame": {
+                      "x": 277,
+                      "y": 10,
+                      "height": 20,
+                      "width": 20,
+                      "rotation": 0
+                    },
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "layers": [
+                      {
+                        "tag": "rectangle",
+                        "id": "741c621a-8c5b-4e78-8f70-24ce6fbe8fb5",
+                        "name": "Rectangle_417",
+                        "isFlippedHorizontal": false,
+                        "isFlippedVertical": false,
+                        "visible": true,
+                        "frame": {
+                          "x": 0,
+                          "y": 0,
+                          "height": 20,
+                          "width": 20,
+                          "rotation": 0
+                        },
+                        "style": {
+                          "backgroundColor": [
+                            {
+                              "type": "solid",
+                              "value": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 1,
+                                "visible": true
+                              }
+                            }
+                          ],
+                          "border": [
+                            {
+                              "thickness": 1,
+                              "align": "INSIDE",
+                              "color": {
+                                "type": "solid",
+                                "value": {
+                                  "red": 112,
+                                  "green": 112,
+                                  "blue": 112,
+                                  "alpha": 1,
+                                  "visible": true
+                                }
+                              }
+                            }
+                          ],
+                          "opacity": 1
+                        },
+                        "cornerRadius": [0, 0, 0, 0]
+                      },
+                      {
+                        "tag": "group",
+                        "id": "425a7d0c-4e94-44d3-9e0f-a28b65d8e1e0",
+                        "name": "Group_63",
+                        "frame": {
+                          "x": 8.800253164023161,
+                          "y": 1.880859375,
+                          "height": 14.61907958984375,
+                          "width": 2.5,
+                          "rotation": 0
+                        },
+                        "isFlippedHorizontal": false,
+                        "isFlippedVertical": false,
+                        "layers": [
+                          {
+                            "tag": "circle",
+                            "id": "90909d66-85c0-4764-a554-17132d0b2807",
+                            "name": "Ellipse_14",
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "frame": {
+                              "x": 0,
+                              "y": 12.11907958984375,
+                              "rotation": 0,
+                              "width": 2.5,
+                              "height": 2.5
+                            },
+                            "radius": 1.25,
+                            "style": {
+                              "backgroundColor": [
+                                {
+                                  "type": "solid",
+                                  "value": {
+                                    "red": 255,
+                                    "green": 3,
+                                    "blue": 18,
+                                    "alpha": 1,
+                                    "visible": true
+                                  }
+                                }
+                              ],
+                              "border": [
+                                {
+                                  "thickness": 1,
+                                  "align": "INSIDE",
+                                  "color": {
+                                    "type": "gradient",
+                                    "value": {
+                                      "type": "linear",
+                                      "startX": 0,
+                                      "startY": 0,
+                                      "stopX": 0,
+                                      "stopY": 0,
+                                      "colors": [
+                                        {
+                                          "offset": 0,
+                                          "color": {
+                                            "red": 0,
+                                            "blue": 0,
+                                            "green": 0,
+                                            "alpha": 0,
+                                            "visible": true
+                                          }
+                                        }
+                                      ],
+                                      "visible": false
+                                    }
+                                  }
+                                }
+                              ],
+                              "opacity": 1
+                            },
+                            "visible": true
+                          },
+                          {
+                            "tag": "rectangle",
+                            "id": "d06e6ccd-dd8d-44ff-9868-2c1c28c043b5",
+                            "name": "Rectangle_416",
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "visible": true,
+                            "frame": {
+                              "x": 0.29290771484375,
+                              "y": 0,
+                              "height": 10.75169849395752,
+                              "width": 2,
+                              "rotation": 0
+                            },
+                            "style": {
+                              "backgroundColor": [
+                                {
+                                  "type": "solid",
+                                  "value": {
+                                    "red": 255,
+                                    "green": 2,
+                                    "blue": 18,
+                                    "alpha": 1,
+                                    "visible": true
+                                  }
+                                }
+                              ],
+                              "border": [
+                                {
+                                  "thickness": 1,
+                                  "align": "INSIDE",
+                                  "color": {
+                                    "type": "gradient",
+                                    "value": {
+                                      "type": "linear",
+                                      "startX": 0,
+                                      "startY": 0,
+                                      "stopX": 0,
+                                      "stopY": 0,
+                                      "colors": [
+                                        {
+                                          "offset": 0,
+                                          "color": {
+                                            "red": 0,
+                                            "blue": 0,
+                                            "green": 0,
+                                            "alpha": 0,
+                                            "visible": true
+                                          }
+                                        }
+                                      ],
+                                      "visible": false
+                                    }
+                                  }
+                                }
+                              ],
+                              "opacity": 1
+                            },
+                            "cornerRadius": [
+                              0.20000000298023224,
+                              0.20000000298023224,
+                              0.20000000298023224,
+                              0.20000000298023224
+                            ]
+                          }
+                        ],
+                        "length": 2,
+                        "style": { "opacity": 1 },
+                        "visible": true
+                      }
+                    ],
+                    "length": 1,
+                    "style": { "opacity": 1 },
+                    "visible": true
+                  },
+                  {
+                    "tag": "text",
+                    "id": "17ba4bf1-2600-4b2c-b0ac-c1a56e86f774",
+                    "name": "Please_enter_correct...",
+                    "string": "Please enter correct Password",
+                    "visible": true,
+                    "frame": { "x": 1, "y": 44.89999999999998, "rotation": 0 },
+                    "style": {
+                      "backgroundColor": [
+                        {
+                          "type": "solid",
+                          "value": {
+                            "red": 255,
+                            "green": 2,
+                            "blue": 18,
+                            "alpha": 1,
+                            "visible": true
+                          }
+                        }
+                      ],
+                      "border": [],
+                      "opacity": 0,
+                      "font": {
+                        "fontFamily": "Poppins",
+                        "fontSize": 9,
+                        "fontStyle": "Medium"
+                      },
+                      "color": {
+                        "type": "solid",
+                        "value": {
+                          "red": 255,
+                          "green": 2,
+                          "blue": 18,
+                          "alpha": 1,
+                          "visible": true
+                        }
+                      },
+                      "format": [{ "from": 0, "to": 29 }]
+                    }
+                  }
+                ],
+                "length": 6,
+                "style": { "opacity": 1 },
+                "visible": true
+              },
+              {
+                "tag": "text",
+                "id": "a6d6f281-66b9-4563-b588-44b49e1d0d59",
+                "name": "Sign_In",
+                "string": "Sign In",
+                "visible": true,
+                "frame": {
+                  "x": 77,
+                  "y": 0,
+                  "height": 47,
+                  "width": 141,
+                  "rotation": 0
+                },
+                "style": {
+                  "backgroundColor": [
+                    {
+                      "type": "solid",
+                      "value": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 0.8,
+                        "visible": true
+                      }
+                    }
+                  ],
+                  "border": [],
+                  "opacity": 1,
+                  "font": {
+                    "fontFamily": "Poppins",
+                    "fontSize": 30,
+                    "fontStyle": "Bold",
+                    "fontAlign": "center",
+                    "charSpacing": -0.6
+                  },
+                  "color": {
+                    "type": "solid",
+                    "value": {
+                      "red": 0,
+                      "green": 0,
+                      "blue": 0,
+                      "alpha": 0.8,
+                      "visible": true
+                    }
+                  },
+                  "format": [{ "from": 0, "to": 7 }]
+                }
+              },
+              {
+                "tag": "group",
+                "id": "4d3e06c2-651b-4343-b099-6341502ef519",
+                "name": "Component_14__1",
+                "frame": {
+                  "x": 4.055004119873047,
+                  "y": 269,
+                  "height": 12,
+                  "width": 91,
+                  "rotation": 0
+                },
+                "isFlippedHorizontal": false,
+                "isFlippedVertical": false,
+                "layers": [
+                  {
+                    "tag": "text",
+                    "id": "ee23fae3-7d89-49a4-a4f8-da9eef297664",
+                    "name": "Forgot_Password_",
+                    "string": "Forgot Password ?",
+                    "visible": true,
+                    "frame": { "x": 0, "y": 0, "rotation": 0 },
+                    "style": {
+                      "backgroundColor": [
+                        {
+                          "type": "solid",
+                          "value": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "alpha": 1,
+                            "visible": true
+                          }
+                        }
+                      ],
+                      "border": [],
+                      "opacity": 0.800000011920929,
+                      "font": {
+                        "fontFamily": "Poppins",
+                        "fontSize": 10,
+                        "fontStyle": "Medium",
+                        "fontAlign": "center",
+                        "charSpacing": -0.1
+                      },
+                      "color": {
+                        "type": "solid",
+                        "value": {
+                          "red": 0,
+                          "green": 0,
+                          "blue": 0,
+                          "alpha": 1,
+                          "visible": true
+                        }
+                      },
+                      "format": [{ "from": 0, "to": 17 }]
+                    }
+                  }
+                ],
+                "length": 1,
+                "style": { "opacity": 1 },
+                "visible": true
+              },
+              {
+                "tag": "group",
+                "id": "2483d1c2-1ea2-4f94-95ca-192f315c52bc",
+                "name": "Group_43",
+                "frame": {
+                  "x": 61.994998931884766,
+                  "y": 387,
+                  "height": 12,
+                  "width": 179.59000205993652,
+                  "rotation": 0
+                },
+                "isFlippedHorizontal": false,
+                "isFlippedVertical": false,
+                "layers": [
+                  {
+                    "tag": "text",
+                    "id": "9e4c6b18-1988-4a34-b9f8-d9b9d8225719",
+                    "name": "Dont_have_an_account...",
+                    "string": "Don’t have an account ?",
+                    "visible": true,
+                    "frame": { "x": 0, "y": 0, "rotation": 0 },
+                    "style": {
+                      "backgroundColor": [
+                        {
+                          "type": "solid",
+                          "value": {
+                            "red": 51,
+                            "green": 51,
+                            "blue": 51,
+                            "alpha": 1,
+                            "visible": true
+                          }
+                        }
+                      ],
+                      "border": [],
+                      "opacity": 1,
+                      "font": {
+                        "fontFamily": "Poppins",
+                        "fontSize": 10,
+                        "fontStyle": "Medium",
+                        "fontAlign": "center",
+                        "charSpacing": -0.1
+                      },
+                      "color": {
+                        "type": "solid",
+                        "value": {
+                          "red": 51,
+                          "green": 51,
+                          "blue": 51,
+                          "alpha": 1,
+                          "visible": true
+                        }
+                      },
+                      "format": [{ "from": 0, "to": 23 }]
+                    }
+                  },
+                  {
+                    "tag": "text",
+                    "id": "1176457e-05da-44a6-9e91-3f1d342046bb",
+                    "name": "Create_One",
+                    "string": "Create One",
+                    "visible": true,
+                    "frame": { "x": 121.59000205993652, "y": 0, "rotation": 0 },
+                    "style": {
+                      "backgroundColor": [
+                        {
+                          "type": "solid",
+                          "value": {
+                            "red": 38,
+                            "green": 170,
+                            "blue": 125,
+                            "alpha": 1,
+                            "visible": true
+                          }
+                        }
+                      ],
+                      "border": [],
+                      "opacity": 1,
+                      "font": {
+                        "fontFamily": "Poppins",
+                        "fontSize": 10,
+                        "fontStyle": "SemiBold",
+                        "fontAlign": "center",
+                        "charSpacing": -0.1
+                      },
+                      "color": {
+                        "type": "solid",
+                        "value": {
+                          "red": 38,
+                          "green": 170,
+                          "blue": 125,
+                          "alpha": 1,
+                          "visible": true
+                        }
+                      },
+                      "format": [{ "from": 0, "to": 10 }]
+                    }
+                  }
+                ],
+                "length": 2,
+                "style": { "opacity": 1 },
+                "visible": true
+              },
+              {
+                "tag": "line",
+                "id": "a3f6edde-a4f1-4052-9a51-ab8f7db160f1",
+                "name": "Line_2",
+                "isFlippedHorizontal": false,
+                "isFlippedVertical": false,
+                "visible": true,
+                "frame": {
+                  "x": 0.5,
+                  "y": 365.6781005859375,
+                  "x1": 0,
+                  "y1": 0,
+                  "x2": 302,
+                  "y2": 0,
+                  "width": 302,
+                  "height": 0,
+                  "rotation": 0
+                },
+                "style": {
+                  "backgroundColor": [],
+                  "border": [
+                    {
+                      "thickness": 1,
+                      "align": "OUTSIDE",
+                      "color": {
+                        "type": "solid",
+                        "value": {
+                          "red": 112,
+                          "green": 112,
+                          "blue": 112,
+                          "alpha": 1,
+                          "visible": true
+                        }
+                      }
+                    }
+                  ],
+                  "opacity": 0.20000000298023224
+                }
+              },
+              {
+                "tag": "group",
+                "id": "5804a2d8-bca5-4894-9250-aabc5f0c2e3a",
+                "name": "Group_45",
+                "frame": {
+                  "x": 0.5,
+                  "y": 120,
+                  "height": 20,
+                  "width": 302,
+                  "rotation": 0
+                },
+                "isFlippedHorizontal": false,
+                "isFlippedVertical": false,
+                "layers": [
+                  {
+                    "tag": "line",
+                    "id": "97071d86-eec5-4c8d-8461-e8d552e0a89c",
+                    "name": "Line_3",
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "visible": true,
+                    "frame": {
+                      "x": 0,
+                      "y": 9.170623779296875,
+                      "x1": 0,
+                      "y1": 0,
+                      "x2": 302,
+                      "y2": 0,
+                      "width": 302,
+                      "height": 0,
+                      "rotation": 0
+                    },
+                    "style": {
+                      "backgroundColor": [],
+                      "border": [
+                        {
+                          "thickness": 1,
+                          "align": "OUTSIDE",
+                          "color": {
+                            "type": "solid",
+                            "value": {
+                              "red": 112,
+                              "green": 112,
+                              "blue": 112,
+                              "alpha": 1,
+                              "visible": true
+                            }
+                          }
+                        }
+                      ],
+                      "opacity": 0.20000000298023224
+                    }
+                  },
+                  {
+                    "tag": "group",
+                    "id": "dbc6ad5c-b3de-474e-923d-33ca9989c347",
+                    "name": "Group_44",
+                    "frame": {
+                      "x": 137.5,
+                      "y": 0,
+                      "height": 20,
+                      "width": 27,
+                      "rotation": 0
+                    },
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "layers": [
+                      {
+                        "tag": "rectangle",
+                        "id": "5f159ca3-16cd-48e9-848e-aec4b1e20b39",
+                        "name": "Rectangle_408",
+                        "isFlippedHorizontal": false,
+                        "isFlippedVertical": false,
+                        "visible": true,
+                        "frame": {
+                          "x": 0,
+                          "y": 0,
+                          "height": 20,
+                          "width": 27,
+                          "rotation": 0
+                        },
+                        "style": {
+                          "backgroundColor": [
+                            {
+                              "type": "solid",
+                              "value": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 1,
+                                "visible": true
+                              }
+                            }
+                          ],
+                          "border": [
+                            {
+                              "thickness": 1,
+                              "align": "INSIDE",
+                              "color": {
+                                "type": "gradient",
+                                "value": {
+                                  "type": "linear",
+                                  "startX": 0,
+                                  "startY": 0,
+                                  "stopX": 0,
+                                  "stopY": 0,
+                                  "colors": [
+                                    {
+                                      "offset": 0,
+                                      "color": {
+                                        "red": 0,
+                                        "blue": 0,
+                                        "green": 0,
+                                        "alpha": 0,
+                                        "visible": true
+                                      }
+                                    }
+                                  ],
+                                  "visible": false
+                                }
+                              }
+                            }
+                          ],
+                          "opacity": 1
+                        },
+                        "cornerRadius": [0, 0, 0, 0]
+                      },
+                      {
+                        "tag": "text",
+                        "id": "5de9641c-a2cd-4d7b-8833-08a622baad86",
+                        "name": "Or",
+                        "string": "Or",
+                        "visible": true,
+                        "frame": {
+                          "x": 7.15500020980835,
+                          "y": 4,
+                          "rotation": 0
+                        },
+                        "style": {
+                          "backgroundColor": [
+                            {
+                              "type": "solid",
+                              "value": {
+                                "red": 51,
+                                "green": 51,
+                                "blue": 51,
+                                "alpha": 1,
+                                "visible": true
+                              }
+                            }
+                          ],
+                          "border": [],
+                          "opacity": 1,
+                          "font": {
+                            "fontFamily": "Poppins",
+                            "fontSize": 10,
+                            "fontStyle": "SemiBold",
+                            "fontAlign": "center",
+                            "charSpacing": -0.2
+                          },
+                          "color": {
+                            "type": "solid",
+                            "value": {
+                              "red": 51,
+                              "green": 51,
+                              "blue": 51,
+                              "alpha": 1,
+                              "visible": true
+                            }
+                          },
+                          "format": [{ "from": 0, "to": 2 }]
+                        }
+                      }
+                    ],
+                    "length": 2,
+                    "style": { "opacity": 1 },
+                    "visible": true
+                  }
+                ],
+                "length": 2,
+                "style": { "opacity": 1 },
+                "visible": true
+              },
+              {
+                "tag": "group",
+                "id": "520b5517-c700-43f9-9497-0b60b12614a8",
+                "name": "SIgn_In_Button",
+                "frame": {
+                  "x": 59,
+                  "y": 57,
+                  "height": 40,
+                  "width": 185,
+                  "rotation": 0
+                },
+                "isFlippedHorizontal": false,
+                "isFlippedVertical": false,
+                "layers": [
+                  {
+                    "tag": "rectangle",
+                    "id": "e2730721-3c5f-4729-a50d-3edddeecb810",
+                    "name": "Rectangle_401",
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "visible": true,
+                    "frame": {
+                      "x": 0,
+                      "y": 0,
+                      "height": 40,
+                      "width": 185,
+                      "rotation": 0
+                    },
+                    "style": {
+                      "backgroundColor": [
+                        {
+                          "type": "solid",
+                          "value": {
+                            "red": 68,
+                            "green": 129,
+                            "blue": 243,
+                            "alpha": 1,
+                            "visible": true
+                          }
+                        }
+                      ],
+                      "border": [
+                        {
+                          "thickness": 1,
+                          "align": "INSIDE",
+                          "color": {
+                            "type": "gradient",
+                            "value": {
+                              "type": "linear",
+                              "startX": 0,
+                              "startY": 0,
+                              "stopX": 0,
+                              "stopY": 0,
+                              "colors": [
+                                {
+                                  "offset": 0,
+                                  "color": {
+                                    "red": 0,
+                                    "blue": 0,
+                                    "green": 0,
+                                    "alpha": 0,
+                                    "visible": true
+                                  }
+                                }
+                              ],
+                              "visible": false
+                            }
+                          }
+                        }
+                      ],
+                      "opacity": 1,
+                      "shadow": [
+                        {
+                          "color": {
+                            "type": "solid",
+                            "value": {
+                              "red": 0,
+                              "green": 0,
+                              "blue": 0,
+                              "visible": true
+                            }
+                          },
+                          "opacity": 0.23921568627450981,
+                          "x": 0,
+                          "y": 1,
+                          "s": 1,
+                          "blur": 0,
+                          "visible": true
+                        }
+                      ]
+                    },
+                    "cornerRadius": [2, 2, 2, 2]
+                  },
+                  {
+                    "tag": "rectangle",
+                    "id": "476a29b1-02df-48cb-9ee7-d6bc25ffeeda",
+                    "name": "Rectangle_399",
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "visible": true,
+                    "frame": {
+                      "x": 0,
+                      "y": 0,
+                      "height": 40,
+                      "width": 185,
+                      "rotation": 0
+                    },
+                    "style": {
+                      "backgroundColor": [
+                        {
+                          "type": "solid",
+                          "value": {
+                            "red": 68,
+                            "green": 129,
+                            "blue": 243,
+                            "alpha": 1,
+                            "visible": true
+                          }
+                        }
+                      ],
+                      "border": [
+                        {
+                          "thickness": 1,
+                          "align": "INSIDE",
+                          "color": {
+                            "type": "gradient",
+                            "value": {
+                              "type": "linear",
+                              "startX": 0,
+                              "startY": 0,
+                              "stopX": 0,
+                              "stopY": 0,
+                              "colors": [
+                                {
+                                  "offset": 0,
+                                  "color": {
+                                    "red": 0,
+                                    "blue": 0,
+                                    "green": 0,
+                                    "alpha": 0,
+                                    "visible": true
+                                  }
+                                }
+                              ],
+                              "visible": false
+                            }
+                          }
+                        }
+                      ],
+                      "opacity": 1,
+                      "shadow": [
+                        {
+                          "color": {
+                            "type": "solid",
+                            "value": {
+                              "red": 0,
+                              "green": 0,
+                              "blue": 0,
+                              "visible": true
+                            }
+                          },
+                          "opacity": 0.1411764705882353,
+                          "x": 0,
+                          "y": 0,
+                          "s": 1,
+                          "blur": 0,
+                          "visible": true
+                        }
+                      ]
+                    },
+                    "cornerRadius": [2, 2, 2, 2]
+                  },
+                  {
+                    "tag": "group",
+                    "id": "826a513e-9b5b-4e3c-a4a3-44d79477e781",
+                    "name": "Group_35",
+                    "frame": {
+                      "x": 2,
+                      "y": 2,
+                      "height": 36,
+                      "width": 36,
+                      "rotation": 0
+                    },
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "layers": [
+                      {
+                        "tag": "rectangle",
+                        "id": "1af52d3c-2ae0-4708-9c06-31cc769a5733",
+                        "name": "Rectangle_400",
+                        "isFlippedHorizontal": false,
+                        "isFlippedVertical": false,
+                        "visible": true,
+                        "frame": {
+                          "x": 0,
+                          "y": 0,
+                          "height": 36,
+                          "width": 36,
+                          "rotation": 0
+                        },
+                        "style": {
+                          "backgroundColor": [
+                            {
+                              "type": "solid",
+                              "value": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 1,
+                                "visible": true
+                              }
+                            }
+                          ],
+                          "border": [
+                            {
+                              "thickness": 1,
+                              "align": "INSIDE",
+                              "color": {
+                                "type": "gradient",
+                                "value": {
+                                  "type": "linear",
+                                  "startX": 0,
+                                  "startY": 0,
+                                  "stopX": 0,
+                                  "stopY": 0,
+                                  "colors": [
+                                    {
+                                      "offset": 0,
+                                      "color": {
+                                        "red": 0,
+                                        "blue": 0,
+                                        "green": 0,
+                                        "alpha": 0,
+                                        "visible": true
+                                      }
+                                    }
+                                  ],
+                                  "visible": false
+                                }
+                              }
+                            }
+                          ],
+                          "opacity": 1
+                        },
+                        "cornerRadius": [1, 1, 1, 1]
+                      },
+                      {
+                        "tag": "clipPath",
+                        "id": "f55a1fcb-0f51-44a7-8ea6-2e8d28390cb9",
+                        "name": "Group_28",
+                        "frame": {
+                          "x": 18,
+                          "y": 16.36363983154297,
+                          "height": 8.455909729003903,
+                          "width": 8.639999389648438,
+                          "rotation": 0
+                        },
+                        "isFlippedHorizontal": false,
+                        "isFlippedVertical": false,
+                        "layers": [
+                          {
+                            "tag": "path",
+                            "id": "63feedb9-cf7c-4b5a-a0e4-bdaad11c21cc",
+                            "name": "Path_31",
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "visible": true,
+                            "frame": {
+                              "x": 0,
+                              "y": 0,
+                              "height": 8.455909729003903,
+                              "width": 8.639999389648438,
+                              "rotation": 0
+                            },
+                            "style": {
+                              "backgroundColor": [],
+                              "border": [
+                                {
+                                  "thickness": 1,
+                                  "align": "OUTSIDE",
+                                  "color": {
+                                    "type": "gradient",
+                                    "value": {
+                                      "type": "linear",
+                                      "startX": 0,
+                                      "startY": 0,
+                                      "stopX": 0,
+                                      "stopY": 0,
+                                      "colors": [
+                                        {
+                                          "offset": 0,
+                                          "color": {
+                                            "red": 0,
+                                            "blue": 0,
+                                            "green": 0,
+                                            "alpha": 0,
+                                            "visible": true
+                                          }
+                                        }
+                                      ],
+                                      "visible": false
+                                    }
+                                  }
+                                }
+                              ],
+                              "opacity": 1
+                            },
+                            "path": [
+                              { "type": "M", "points": [[8.64, 1.84091]] },
+                              {
+                                "type": "c",
+                                "points": [
+                                  [0, -0.63819],
+                                  [-0.05727, -1.25182],
+                                  [-0.16364, -1.84091]
+                                ]
+                              },
+                              { "type": "h", "points": [[-8.47636, 0]] },
+                              { "type": "v", "points": [[3.48136, 0]] },
+                              { "type": "h", "points": [[4.84364, 0]] },
+                              {
+                                "type": "c",
+                                "points": [
+                                  [-0.20864, 1.125],
+                                  [-0.84273, 2.07818],
+                                  [-1.79591, 2.71636]
+                                ]
+                              },
+                              { "type": "v", "points": [[2.25819, 0]] },
+                              { "type": "h", "points": [[2.90863, 0]] },
+                              {
+                                "type": "c",
+                                "points": [
+                                  [1.70182, -1.56682],
+                                  [2.68364, -3.8741],
+                                  [2.68364, -6.615]
+                                ]
+                              },
+                              { "type": "z", "points": [] }
+                            ]
+                          },
+                          {
+                            "tag": "clipPath",
+                            "id": "4522a12d-76e8-4279-9f17-73589163daae",
+                            "name": "Group_27",
+                            "frame": {
+                              "x": -24,
+                              "y": -22.36363983154297,
+                              "height": 48,
+                              "width": 193,
+                              "rotation": 0
+                            },
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "layers": [
+                              {
+                                "tag": "path",
+                                "id": "5bd236fd-63c9-48e9-9696-359473ef646a",
+                                "name": "Path_30",
+                                "isFlippedHorizontal": false,
+                                "isFlippedVertical": false,
+                                "visible": true,
+                                "frame": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "height": 48,
+                                  "width": 193,
+                                  "rotation": 0
+                                },
+                                "style": {
+                                  "backgroundColor": [],
+                                  "border": [
+                                    {
+                                      "thickness": 1,
+                                      "align": "OUTSIDE",
+                                      "color": {
+                                        "type": "gradient",
+                                        "value": {
+                                          "type": "linear",
+                                          "startX": 0,
+                                          "startY": 0,
+                                          "stopX": 0,
+                                          "stopY": 0,
+                                          "colors": [
+                                            {
+                                              "offset": 0,
+                                              "color": {
+                                                "red": 0,
+                                                "blue": 0,
+                                                "green": 0,
+                                                "alpha": 0,
+                                                "visible": true
+                                              }
+                                            }
+                                          ],
+                                          "visible": false
+                                        }
+                                      }
+                                    }
+                                  ],
+                                  "opacity": 1
+                                },
+                                "path": [
+                                  { "type": "M", "points": [[0, 48]] },
+                                  { "type": "h", "points": [[193, 0]] },
+                                  { "type": "v", "points": [[-48, 0]] },
+                                  { "type": "h", "points": [[-193, 0]] },
+                                  { "type": "z", "points": [] }
+                                ]
+                              },
+                              {
+                                "tag": "path",
+                                "id": "7d48c4e8-90ee-4ddd-9f8b-b0df4baa40e0",
+                                "name": "Path_29",
+                                "isFlippedHorizontal": false,
+                                "isFlippedVertical": false,
+                                "visible": true,
+                                "frame": {
+                                  "x": 19,
+                                  "y": 17.36363983154297,
+                                  "height": 18.4559097290039,
+                                  "width": 18.639999389648438,
+                                  "rotation": 0
+                                },
+                                "style": {
+                                  "backgroundColor": [
+                                    {
+                                      "type": "solid",
+                                      "value": {
+                                        "red": 65,
+                                        "green": 132,
+                                        "blue": 243,
+                                        "alpha": 1,
+                                        "visible": true
+                                      }
+                                    }
+                                  ],
+                                  "border": [
+                                    {
+                                      "thickness": 1,
+                                      "align": "OUTSIDE",
+                                      "color": {
+                                        "type": "gradient",
+                                        "value": {
+                                          "type": "linear",
+                                          "startX": 0,
+                                          "startY": 0,
+                                          "stopX": 0,
+                                          "stopY": 0,
+                                          "colors": [
+                                            {
+                                              "offset": 0,
+                                              "color": {
+                                                "red": 0,
+                                                "blue": 0,
+                                                "green": 0,
+                                                "alpha": 0,
+                                                "visible": true
+                                              }
+                                            }
+                                          ],
+                                          "visible": false
+                                        }
+                                      }
+                                    }
+                                  ],
+                                  "opacity": 1
+                                },
+                                "path": [
+                                  {
+                                    "type": "M",
+                                    "points": [[0, 1.6845703143530955e-7]]
+                                  },
+                                  { "type": "h", "points": [[18.64, 0]] },
+                                  { "type": "v", "points": [[18.45591, 0]] },
+                                  { "type": "h", "points": [[-18.64, 0]] },
+                                  { "type": "z", "points": [] }
+                                ]
+                              }
+                            ],
+                            "length": 1,
+                            "style": { "opacity": 1 },
+                            "visible": true,
+                            "png": "Group"
+                          }
+                        ],
+                        "length": 1,
+                        "style": { "opacity": 1 },
+                        "visible": true,
+                        "png": "Group"
+                      },
+                      {
+                        "tag": "clipPath",
+                        "id": "6c15fcfb-d864-4727-b3f0-434cb9708f43",
+                        "name": "Group_30",
+                        "frame": {
+                          "x": 9.9572696685791,
+                          "y": 19.70999908447266,
+                          "height": 7.29000091552734,
+                          "width": 13.99909019470215,
+                          "rotation": 0
+                        },
+                        "isFlippedHorizontal": false,
+                        "isFlippedVertical": false,
+                        "layers": [
+                          {
+                            "tag": "path",
+                            "id": "43586649-c0a5-434b-be06-ef2fc9497297",
+                            "name": "Path_34",
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "visible": true,
+                            "frame": {
+                              "x": 0,
+                              "y": 0,
+                              "height": 7.29000091552734,
+                              "width": 13.99909019470215,
+                              "rotation": 0
+                            },
+                            "style": {
+                              "backgroundColor": [],
+                              "border": [
+                                {
+                                  "thickness": 1,
+                                  "align": "OUTSIDE",
+                                  "color": {
+                                    "type": "gradient",
+                                    "value": {
+                                      "type": "linear",
+                                      "startX": 0,
+                                      "startY": 0,
+                                      "stopX": 0,
+                                      "stopY": 0,
+                                      "colors": [
+                                        {
+                                          "offset": 0,
+                                          "color": {
+                                            "red": 0,
+                                            "blue": 0,
+                                            "green": 0,
+                                            "alpha": 0,
+                                            "visible": true
+                                          }
+                                        }
+                                      ],
+                                      "visible": false
+                                    }
+                                  }
+                                }
+                              ],
+                              "opacity": 1
+                            },
+                            "path": [
+                              {
+                                "type": "M",
+                                "points": [
+                                  [8.042730000000002, 7.2899999999999965]
+                                ]
+                              },
+                              {
+                                "type": "c",
+                                "points": [
+                                  [2.43, 0],
+                                  [4.46727, -0.80591],
+                                  [5.95636, -2.18045]
+                                ]
+                              },
+                              { "type": "l", "points": [[-2.90863, -2.25819]] },
+                              {
+                                "type": "c",
+                                "points": [
+                                  [-0.80591, 0.54],
+                                  [-1.83682, 0.85909],
+                                  [-3.04773, 0.85909]
+                                ]
+                              },
+                              {
+                                "type": "c",
+                                "points": [
+                                  [-2.34409, 0],
+                                  [-4.32818, -1.58318],
+                                  [-5.03591, -3.71045]
+                                ]
+                              },
+                              { "type": "h", "points": [[-3.00682, 0]] },
+                              { "type": "v", "points": [[2.33182, 0]] },
+                              {
+                                "type": "c",
+                                "points": [
+                                  [1.48091, 2.94136],
+                                  [4.52455, 4.95818],
+                                  [8.04273, 4.95818]
+                                ]
+                              },
+                              { "type": "z", "points": [] }
+                            ]
+                          },
+                          {
+                            "tag": "clipPath",
+                            "id": "d987e741-2518-4f75-86fa-d1a53e17081b",
+                            "name": "Group_29",
+                            "frame": {
+                              "x": -15.9572696685791,
+                              "y": -25.70999908447266,
+                              "height": 48,
+                              "width": 193,
+                              "rotation": 0
+                            },
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "layers": [
+                              {
+                                "tag": "path",
+                                "id": "f652501e-0d28-4b4a-948d-ef1226e1c649",
+                                "name": "Path_33",
+                                "isFlippedHorizontal": false,
+                                "isFlippedVertical": false,
+                                "visible": true,
+                                "frame": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "height": 48,
+                                  "width": 193,
+                                  "rotation": 0
+                                },
+                                "style": {
+                                  "backgroundColor": [],
+                                  "border": [
+                                    {
+                                      "thickness": 1,
+                                      "align": "OUTSIDE",
+                                      "color": {
+                                        "type": "gradient",
+                                        "value": {
+                                          "type": "linear",
+                                          "startX": 0,
+                                          "startY": 0,
+                                          "stopX": 0,
+                                          "stopY": 0,
+                                          "colors": [
+                                            {
+                                              "offset": 0,
+                                              "color": {
+                                                "red": 0,
+                                                "blue": 0,
+                                                "green": 0,
+                                                "alpha": 0,
+                                                "visible": true
+                                              }
+                                            }
+                                          ],
+                                          "visible": false
+                                        }
+                                      }
+                                    }
+                                  ],
+                                  "opacity": 1
+                                },
+                                "path": [
+                                  { "type": "M", "points": [[0, 48]] },
+                                  { "type": "h", "points": [[193, 0]] },
+                                  { "type": "v", "points": [[-48, 0]] },
+                                  { "type": "h", "points": [[-193, 0]] },
+                                  { "type": "z", "points": [] }
+                                ]
+                              },
+                              {
+                                "tag": "path",
+                                "id": "34c1f1c7-4a06-4da9-9455-c86bc0441ffe",
+                                "name": "Path_32",
+                                "isFlippedHorizontal": false,
+                                "isFlippedVertical": false,
+                                "visible": true,
+                                "frame": {
+                                  "x": 10.9572696685791,
+                                  "y": 20.70999908447266,
+                                  "height": 17.29000091552734,
+                                  "width": 23.99909019470215,
+                                  "rotation": 0
+                                },
+                                "style": {
+                                  "backgroundColor": [
+                                    {
+                                      "type": "solid",
+                                      "value": {
+                                        "red": 52,
+                                        "green": 167,
+                                        "blue": 83,
+                                        "alpha": 1,
+                                        "visible": true
+                                      }
+                                    }
+                                  ],
+                                  "border": [
+                                    {
+                                      "thickness": 1,
+                                      "align": "OUTSIDE",
+                                      "color": {
+                                        "type": "gradient",
+                                        "value": {
+                                          "type": "linear",
+                                          "startX": 0,
+                                          "startY": 0,
+                                          "stopX": 0,
+                                          "stopY": 0,
+                                          "colors": [
+                                            {
+                                              "offset": 0,
+                                              "color": {
+                                                "red": 0,
+                                                "blue": 0,
+                                                "green": 0,
+                                                "alpha": 0,
+                                                "visible": true
+                                              }
+                                            }
+                                          ],
+                                          "visible": false
+                                        }
+                                      }
+                                    }
+                                  ],
+                                  "opacity": 1
+                                },
+                                "path": [
+                                  {
+                                    "type": "M",
+                                    "points": [
+                                      [
+                                        3.314208996130219e-7,
+                                        9.155273410499376e-7
+                                      ]
+                                    ]
+                                  },
+                                  { "type": "h", "points": [[23.99909, 0]] },
+                                  { "type": "v", "points": [[17.29, 0]] },
+                                  { "type": "h", "points": [[-23.99909, 0]] },
+                                  { "type": "z", "points": [] }
+                                ]
+                              }
+                            ],
+                            "length": 1,
+                            "style": { "opacity": 1 },
+                            "visible": true,
+                            "png": "Group"
+                          }
+                        ],
+                        "length": 1,
+                        "style": { "opacity": 1 },
+                        "visible": true,
+                        "png": "Group"
+                      },
+                      {
+                        "tag": "clipPath",
+                        "id": "17e100ea-2cbe-465d-9f84-d8855e0c38f8",
+                        "name": "Group_32",
+                        "frame": {
+                          "x": 9,
+                          "y": 13.95817947387695,
+                          "height": 8.0836410522461,
+                          "width": 3.964090347290039,
+                          "rotation": 0
+                        },
+                        "isFlippedHorizontal": false,
+                        "isFlippedVertical": false,
+                        "layers": [
+                          {
+                            "tag": "path",
+                            "id": "ec47d4fb-4b6d-4e36-bc59-8b27083dc03d",
+                            "name": "Path_37",
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "visible": true,
+                            "frame": {
+                              "x": 0,
+                              "y": 0,
+                              "height": 8.0836410522461,
+                              "width": 3.964090347290039,
+                              "rotation": 0
+                            },
+                            "style": {
+                              "backgroundColor": [],
+                              "border": [
+                                {
+                                  "thickness": 1,
+                                  "align": "OUTSIDE",
+                                  "color": {
+                                    "type": "gradient",
+                                    "value": {
+                                      "type": "linear",
+                                      "startX": 0,
+                                      "startY": 0,
+                                      "stopX": 0,
+                                      "stopY": 0,
+                                      "colors": [
+                                        {
+                                          "offset": 0,
+                                          "color": {
+                                            "red": 0,
+                                            "blue": 0,
+                                            "green": 0,
+                                            "alpha": 0,
+                                            "visible": true
+                                          }
+                                        }
+                                      ],
+                                      "visible": false
+                                    }
+                                  }
+                                }
+                              ],
+                              "opacity": 1
+                            },
+                            "path": [
+                              {
+                                "type": "M",
+                                "points": [[3.96409, 5.751820000000004]]
+                              },
+                              {
+                                "type": "c",
+                                "points": [
+                                  [-0.18, -0.54],
+                                  [-0.28227, -1.11682],
+                                  [-0.28227, -1.71]
+                                ]
+                              },
+                              {
+                                "type": "c",
+                                "points": [
+                                  [0, -0.59318],
+                                  [0.10227, -1.17],
+                                  [0.28227, -1.71]
+                                ]
+                              },
+                              { "type": "v", "points": [[-2.33182, 0]] },
+                              { "type": "h", "points": [[-3.00682, 0]] },
+                              {
+                                "type": "c",
+                                "points": [
+                                  [-0.60954, 1.215],
+                                  [-0.95727, 2.58955],
+                                  [-0.95727, 4.04182]
+                                ]
+                              },
+                              {
+                                "type": "c",
+                                "points": [
+                                  [0, 1.45227],
+                                  [0.34773, 2.82682],
+                                  [0.95727, 4.04182]
+                                ]
+                              },
+                              { "type": "l", "points": [[3.00682, -2.33182]] },
+                              { "type": "z", "points": [] }
+                            ]
+                          },
+                          {
+                            "tag": "clipPath",
+                            "id": "d6f1085e-d3e9-4223-a643-5a5f680664ce",
+                            "name": "Group_31",
+                            "frame": {
+                              "x": -15,
+                              "y": -19.95817947387695,
+                              "height": 48,
+                              "width": 193,
+                              "rotation": 0
+                            },
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "layers": [
+                              {
+                                "tag": "path",
+                                "id": "25744e98-1c8e-4d43-89f0-015325ccafe2",
+                                "name": "Path_36",
+                                "isFlippedHorizontal": false,
+                                "isFlippedVertical": false,
+                                "visible": true,
+                                "frame": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "height": 48,
+                                  "width": 193,
+                                  "rotation": 0
+                                },
+                                "style": {
+                                  "backgroundColor": [],
+                                  "border": [
+                                    {
+                                      "thickness": 1,
+                                      "align": "OUTSIDE",
+                                      "color": {
+                                        "type": "gradient",
+                                        "value": {
+                                          "type": "linear",
+                                          "startX": 0,
+                                          "startY": 0,
+                                          "stopX": 0,
+                                          "stopY": 0,
+                                          "colors": [
+                                            {
+                                              "offset": 0,
+                                              "color": {
+                                                "red": 0,
+                                                "blue": 0,
+                                                "green": 0,
+                                                "alpha": 0,
+                                                "visible": true
+                                              }
+                                            }
+                                          ],
+                                          "visible": false
+                                        }
+                                      }
+                                    }
+                                  ],
+                                  "opacity": 1
+                                },
+                                "path": [
+                                  { "type": "M", "points": [[0, 48]] },
+                                  { "type": "h", "points": [[193, 0]] },
+                                  { "type": "v", "points": [[-48, 0]] },
+                                  { "type": "h", "points": [[-193, 0]] },
+                                  { "type": "z", "points": [] }
+                                ]
+                              },
+                              {
+                                "tag": "path",
+                                "id": "eca55045-e643-4f80-b12a-a75cef90c48f",
+                                "name": "Path_35",
+                                "isFlippedHorizontal": false,
+                                "isFlippedVertical": false,
+                                "visible": true,
+                                "frame": {
+                                  "x": 10,
+                                  "y": 14.958179473876953,
+                                  "height": 18.083640098571777,
+                                  "width": 13.964090347290039,
+                                  "rotation": 0
+                                },
+                                "style": {
+                                  "backgroundColor": [
+                                    {
+                                      "type": "solid",
+                                      "value": {
+                                        "red": 250,
+                                        "green": 187,
+                                        "blue": 4,
+                                        "alpha": 1,
+                                        "visible": true
+                                      }
+                                    }
+                                  ],
+                                  "border": [
+                                    {
+                                      "thickness": 1,
+                                      "align": "OUTSIDE",
+                                      "color": {
+                                        "type": "gradient",
+                                        "value": {
+                                          "type": "linear",
+                                          "startX": 0,
+                                          "startY": 0,
+                                          "stopX": 0,
+                                          "stopY": 0,
+                                          "colors": [
+                                            {
+                                              "offset": 0,
+                                              "color": {
+                                                "red": 0,
+                                                "blue": 0,
+                                                "green": 0,
+                                                "alpha": 0,
+                                                "visible": true
+                                              }
+                                            }
+                                          ],
+                                          "visible": false
+                                        }
+                                      }
+                                    }
+                                  ],
+                                  "opacity": 1
+                                },
+                                "path": [
+                                  {
+                                    "type": "M",
+                                    "points": [[0, 5.261230473507794e-7]]
+                                  },
+                                  { "type": "h", "points": [[13.96409, 0]] },
+                                  { "type": "v", "points": [[18.08364, 0]] },
+                                  { "type": "h", "points": [[-13.96409, 0]] },
+                                  { "type": "z", "points": [] }
+                                ]
+                              }
+                            ],
+                            "length": 1,
+                            "style": { "opacity": 1 },
+                            "visible": true,
+                            "png": "Group"
+                          }
+                        ],
+                        "length": 1,
+                        "style": { "opacity": 1 },
+                        "visible": true,
+                        "png": "Group"
+                      },
+                      {
+                        "tag": "clipPath",
+                        "id": "ef3f4f87-1136-466e-a0f9-56912a3db442",
+                        "name": "Group_34",
+                        "frame": {
+                          "x": 9.9572696685791,
+                          "y": 9,
+                          "height": 7.29000091552734,
+                          "width": 14.064550399780279,
+                          "rotation": 0
+                        },
+                        "isFlippedHorizontal": false,
+                        "isFlippedVertical": false,
+                        "layers": [
+                          {
+                            "tag": "path",
+                            "id": "ffeb3b0b-379e-4d27-b04e-b04d2b0c4486",
+                            "name": "Path_40",
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "visible": true,
+                            "frame": {
+                              "x": 0,
+                              "y": 0,
+                              "height": 7.29000091552734,
+                              "width": 14.064550399780279,
+                              "rotation": 0
+                            },
+                            "style": {
+                              "backgroundColor": [],
+                              "border": [
+                                {
+                                  "thickness": 1,
+                                  "align": "OUTSIDE",
+                                  "color": {
+                                    "type": "gradient",
+                                    "value": {
+                                      "type": "linear",
+                                      "startX": 0,
+                                      "startY": 0,
+                                      "stopX": 0,
+                                      "stopY": 0,
+                                      "colors": [
+                                        {
+                                          "offset": 0,
+                                          "color": {
+                                            "red": 0,
+                                            "blue": 0,
+                                            "green": 0,
+                                            "alpha": 0,
+                                            "visible": true
+                                          }
+                                        }
+                                      ],
+                                      "visible": false
+                                    }
+                                  }
+                                }
+                              ],
+                              "opacity": 1
+                            },
+                            "path": [
+                              {
+                                "type": "M",
+                                "points": [[8.042730000000002, 3.57955]]
+                              },
+                              {
+                                "type": "c",
+                                "points": [
+                                  [1.32136, 0],
+                                  [2.50773, 0.45409],
+                                  [3.44045, 1.3459]
+                                ]
+                              },
+                              { "type": "l", "points": [[2.58137, -2.58136]] },
+                              {
+                                "type": "c",
+                                "points": [
+                                  [-1.55864, -1.45227],
+                                  [-3.59591, -2.34409],
+                                  [-6.02182, -2.34409]
+                                ]
+                              },
+                              {
+                                "type": "c",
+                                "points": [
+                                  [-3.51818, 0],
+                                  [-6.56182, 2.01682],
+                                  [-8.04273, 4.95818]
+                                ]
+                              },
+                              { "type": "l", "points": [[3.00682, 2.33182]] },
+                              {
+                                "type": "c",
+                                "points": [
+                                  [0.70773, -2.12727],
+                                  [2.69182, -3.71045],
+                                  [5.03591, -3.71045]
+                                ]
+                              },
+                              { "type": "z", "points": [] }
+                            ]
+                          },
+                          {
+                            "tag": "clipPath",
+                            "id": "87148a3f-6665-419a-9130-99d10f5320b3",
+                            "name": "Group_33",
+                            "frame": {
+                              "x": -15.9572696685791,
+                              "y": -15,
+                              "height": 48,
+                              "width": 193,
+                              "rotation": 0
+                            },
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "layers": [
+                              {
+                                "tag": "path",
+                                "id": "8d7fa4eb-4732-484c-b239-63db331c46eb",
+                                "name": "Path_39",
+                                "isFlippedHorizontal": false,
+                                "isFlippedVertical": false,
+                                "visible": true,
+                                "frame": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "height": 48,
+                                  "width": 193,
+                                  "rotation": 0
+                                },
+                                "style": {
+                                  "backgroundColor": [],
+                                  "border": [
+                                    {
+                                      "thickness": 1,
+                                      "align": "OUTSIDE",
+                                      "color": {
+                                        "type": "gradient",
+                                        "value": {
+                                          "type": "linear",
+                                          "startX": 0,
+                                          "startY": 0,
+                                          "stopX": 0,
+                                          "stopY": 0,
+                                          "colors": [
+                                            {
+                                              "offset": 0,
+                                              "color": {
+                                                "red": 0,
+                                                "blue": 0,
+                                                "green": 0,
+                                                "alpha": 0,
+                                                "visible": true
+                                              }
+                                            }
+                                          ],
+                                          "visible": false
+                                        }
+                                      }
+                                    }
+                                  ],
+                                  "opacity": 1
+                                },
+                                "path": [
+                                  { "type": "M", "points": [[0, 48]] },
+                                  { "type": "h", "points": [[193, 0]] },
+                                  { "type": "v", "points": [[-48, 0]] },
+                                  { "type": "h", "points": [[-193, 0]] },
+                                  { "type": "z", "points": [] }
+                                ]
+                              },
+                              {
+                                "tag": "path",
+                                "id": "3dec06c8-23a8-42d5-9454-6138eefa31f9",
+                                "name": "Path_38",
+                                "isFlippedHorizontal": false,
+                                "isFlippedVertical": false,
+                                "visible": true,
+                                "frame": {
+                                  "x": 10.9572696685791,
+                                  "y": 10,
+                                  "height": 17.29000091552734,
+                                  "width": 24.06455039978028,
+                                  "rotation": 0
+                                },
+                                "style": {
+                                  "backgroundColor": [
+                                    {
+                                      "type": "solid",
+                                      "value": {
+                                        "red": 234,
+                                        "green": 67,
+                                        "blue": 52,
+                                        "alpha": 1,
+                                        "visible": true
+                                      }
+                                    }
+                                  ],
+                                  "border": [
+                                    {
+                                      "thickness": 1,
+                                      "align": "OUTSIDE",
+                                      "color": {
+                                        "type": "gradient",
+                                        "value": {
+                                          "type": "linear",
+                                          "startX": 0,
+                                          "startY": 0,
+                                          "stopX": 0,
+                                          "stopY": 0,
+                                          "colors": [
+                                            {
+                                              "offset": 0,
+                                              "color": {
+                                                "red": 0,
+                                                "blue": 0,
+                                                "green": 0,
+                                                "alpha": 0,
+                                                "visible": true
+                                              }
+                                            }
+                                          ],
+                                          "visible": false
+                                        }
+                                      }
+                                    }
+                                  ],
+                                  "opacity": 1
+                                },
+                                "path": [
+                                  {
+                                    "type": "M",
+                                    "points": [[3.314208996130219e-7, 0]]
+                                  },
+                                  { "type": "h", "points": [[24.06455, 0]] },
+                                  { "type": "v", "points": [[17.29, 0]] },
+                                  { "type": "h", "points": [[-24.06455, 0]] },
+                                  { "type": "z", "points": [] }
+                                ]
+                              }
+                            ],
+                            "length": 1,
+                            "style": { "opacity": 1 },
+                            "visible": true,
+                            "png": "Group"
+                          }
+                        ],
+                        "length": 1,
+                        "style": { "opacity": 1 },
+                        "visible": true,
+                        "png": "Group"
+                      }
+                    ],
+                    "length": 5,
+                    "style": { "opacity": 1 },
+                    "visible": true
+                  },
+                  {
+                    "tag": "text",
+                    "id": "9c32fae3-98f9-4c82-8d9d-eea495ddb609",
+                    "name": "Sign_in_with_Google",
+                    "string": "Sign in with Google",
+                    "visible": true,
+                    "frame": {
+                      "x": 51.73653030395508,
+                      "y": 12.400000000000006,
+                      "rotation": 0
+                    },
+                    "style": {
+                      "backgroundColor": [
+                        {
+                          "type": "solid",
+                          "value": {
+                            "red": 255,
+                            "green": 255,
+                            "blue": 255,
+                            "alpha": 1,
+                            "visible": true
+                          }
+                        }
+                      ],
+                      "border": [],
+                      "opacity": 1,
+                      "font": {
+                        "fontFamily": "Roboto",
+                        "fontSize": 14,
+                        "fontStyle": "Medium",
+                        "fontAlign": "center",
+                        "charSpacing": 0.2254000053405762
+                      },
+                      "color": {
+                        "type": "solid",
+                        "value": {
+                          "red": 255,
+                          "green": 255,
+                          "blue": 255,
+                          "alpha": 1,
+                          "visible": true
+                        }
+                      },
+                      "format": [{ "from": 0, "to": 19 }]
+                    }
+                  }
+                ],
+                "length": 4,
+                "style": { "opacity": 1 },
+                "visible": true
+              },
+              {
+                "tag": "group",
+                "id": "dd708dda-f094-4cf9-b275-3ddc7028d123",
+                "name": "Button",
+                "frame": {
+                  "x": 192,
+                  "y": 300,
+                  "height": 36,
+                  "width": 110,
+                  "rotation": 0
+                },
+                "isFlippedHorizontal": false,
+                "isFlippedVertical": false,
+                "layers": [
+                  {
+                    "tag": "rectangle",
+                    "id": "39a24bdc-fd6e-4161-abec-6c5cf8c93b33",
+                    "name": "Rectangle_405",
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "visible": true,
+                    "frame": {
+                      "x": 0,
+                      "y": 0,
+                      "height": 36,
+                      "width": 110,
+                      "rotation": 0
+                    },
+                    "style": {
+                      "backgroundColor": [
+                        {
+                          "type": "solid",
+                          "value": {
+                            "red": 38,
+                            "green": 170,
+                            "blue": 125,
+                            "alpha": 1,
+                            "visible": true
+                          }
+                        }
+                      ],
+                      "border": [
+                        {
+                          "thickness": 1,
+                          "align": "INSIDE",
+                          "color": {
+                            "type": "gradient",
+                            "value": {
+                              "type": "linear",
+                              "startX": 0,
+                              "startY": 0,
+                              "stopX": 0,
+                              "stopY": 0,
+                              "colors": [
+                                {
+                                  "offset": 0,
+                                  "color": {
+                                    "red": 0,
+                                    "blue": 0,
+                                    "green": 0,
+                                    "alpha": 0,
+                                    "visible": true
+                                  }
+                                }
+                              ],
+                              "visible": false
+                            }
+                          }
+                        }
+                      ],
+                      "opacity": 1
+                    },
+                    "cornerRadius": [3, 3, 3, 3]
+                  },
+                  {
+                    "tag": "text",
+                    "id": "dab34e59-bfb6-4d8b-8b7d-a5a0cb56a007",
+                    "name": "Sign_In",
+                    "string": "Sign In",
+                    "visible": true,
+                    "frame": {
+                      "x": 35,
+                      "y": 11.199999999999989,
+                      "height": 17,
+                      "width": 40,
+                      "rotation": 0
+                    },
+                    "style": {
+                      "backgroundColor": [
+                        {
+                          "type": "solid",
+                          "value": {
+                            "red": 255,
+                            "green": 255,
+                            "blue": 255,
+                            "alpha": 1,
+                            "visible": true
+                          }
+                        }
+                      ],
+                      "border": [],
+                      "opacity": 1,
+                      "font": {
+                        "fontFamily": "Poppins",
+                        "fontSize": 12,
+                        "fontStyle": "SemiBold",
+                        "fontAlign": "center",
+                        "charSpacing": -0.24
+                      },
+                      "color": {
+                        "type": "solid",
+                        "value": {
+                          "red": 255,
+                          "green": 255,
+                          "blue": 255,
+                          "alpha": 1,
+                          "visible": true
+                        }
+                      },
+                      "format": [{ "from": 0, "to": 7 }]
+                    }
+                  }
+                ],
+                "length": 2,
+                "style": { "opacity": 1 },
+                "visible": true
+              }
+            ],
+            "length": 9,
+            "style": { "opacity": 1 },
+            "visible": true
+          }
+        ],
+        "length": 2,
+        "style": { "opacity": 1 },
+        "visible": true
+      }
+    ],
+    "statusBar": { "color": "black", "type": "S" },
+    "style": {
+      "backgroundColor": [
+        {
+          "type": "gradient",
+          "value": {
+            "type": "linear",
+            "startX": 0,
+            "startY": 0,
+            "stopX": 0,
+            "stopY": 0,
+            "colors": [
+              {
+                "offset": 0,
+                "color": {
+                  "red": 0,
+                  "blue": 0,
+                  "green": 0,
+                  "alpha": 0,
+                  "visible": true
+                }
+              }
+            ],
+            "visible": false
+          }
+        }
+      ]
+    },
+    "visible": true
+  }
+]
